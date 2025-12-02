@@ -15,13 +15,14 @@ The scene recreates the cubist style of Lebedev's Red Army and Navy Defend the R
 - User Interaction: Real-time control of lighting and camera navigation
 
 # Controls
-Action,Input / Key,Description
-Move Camera,"W, A, S, D","Fly through the scene (Forward, Left, Back, Right)."
-Rotate Camera,Right Click + Mouse,Look around the environment.
-Move Height,"Q, E",Move camera Down/Up.
-Move Point Light,Arrow Keys,Controls the Omni-directional light (Red/Blue).
-Move Spot Light,Mouse Pointer,Controls the overhead reflector light.
-Quit,ESC,Closes the application.
+| Action | Input / Key | Description |
+| :--- | :--- | :--- |
+| **Move Camera** | `W`, `A`, `S`, `D` | Fly through the scene (Forward, Left, Back, Right). |
+| **Rotate Camera** | `Right Click` + `Mouse` | Look around the environment. |
+| **Adjust Height** | `Q`, `E` | Move camera Down (`Q`) or Up (`E`). |
+| **Move Point Light** | `Arrow Keys` | Controls the Omni-directional light position. |
+| **Move Spot Light** | `Mouse Pointer` | Controls the overhead reflector light position. |
+| **Quit** | `ESC` | Closes the application. |
 
 # Installation & Usage
 
