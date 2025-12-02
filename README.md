@@ -26,8 +26,8 @@ The scene recreates the cubist style of Lebedev's Red Army and Navy Defend the R
 
 # Installation & Usage
 
-Download: Clone the repository or download the .zip file **Except the app file**
+Download: Clone the repository or download the .zip file **Except the exe file**
 
-Run: Open the Build/ folder and launch the executable file (.exe). Unity installation is not required to run the build. Or download app file and run the .exe.
+Run: Open the Build/ folder and launch the executable file (.exe). Unity installation is not required to run the build. Or download exe file and run the .exe.
 
 Editor: To edit the project, open the root folder using Unity 2022.3 LTS (or newer).
