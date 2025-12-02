@@ -6,7 +6,7 @@ into a volumetric 3D environment, exploring spatial composition, physics, lighti
 - Bruno Daniel Pérez Vargas
 - Fernando Villalobos Betancourt
 
-# Project Overview
+## Project Overview
 The scene recreates the cubist style of Lebedev's Red Army and Navy Defend the Russian Borders using geometric primitives in Unity. The project demonstrates the implementation of:
 
 - 3D Scene Composition: Translation of 2D shapes into 3D volumes
@@ -14,7 +14,7 @@ The scene recreates the cubist style of Lebedev's Red Army and Navy Defend the R
 - Physics & Animation: Usage of Rigidbodies for gravity effects and script-based animation for character movement
 - User Interaction: Real-time control of lighting and camera navigation
 
-# Controls
+## Controls
 | Action | Input / Key | Description |
 | :--- | :--- | :--- |
 | **Move Camera** | `W`, `A`, `S`, `D` | Fly through the scene (Forward, Left, Back, Right). |
@@ -24,7 +24,10 @@ The scene recreates the cubist style of Lebedev's Red Army and Navy Defend the R
 | **Move Spot Light** | `Mouse Pointer` | Controls the overhead reflector light position. |
 | **Quit** | `ESC` | Closes the application. |
 
-# Installation & Usage
+## Video Demostration
+https://youtu.be/TeDuXTRiZgg
+
+## Installation & Usage
 
 Download: Clone the repository or download the .zip file **Except the exe file**
 
