@@ -2,6 +2,10 @@
 This project is the second assignment for the Computer Graphics course. It transitions the abstract 2D animation developed in https://github.com/BrunoSaurio7/2d-artistic-animation
 into a volumetric 3D environment, exploring spatial composition, physics, lighting, and interactivity
 
+**By:**
+- Bruno Daniel Pérez Vargas
+- Fernando Villalobos Betancourt
+
 # Project Overview
 The scene recreates the cubist style of Lebedev's Red Army and Navy Defend the Russian Borders using geometric primitives in Unity. The project demonstrates the implementation of:
 
@@ -18,3 +22,11 @@ Move Height,"Q, E",Move camera Down/Up.
 Move Point Light,Arrow Keys,Controls the Omni-directional light (Red/Blue).
 Move Spot Light,Mouse Pointer,Controls the overhead reflector light.
 Quit,ESC,Closes the application.
+
+# Installation & Usage
+
+Download: Clone the repository or download the .zip file **Except the app file**
+
+Run: Open the Build/ folder and launch the executable file (.exe). Unity installation is not required to run the build. Or download app file and run the .exe.
+
+Editor: To edit the project, open the root folder using Unity 2022.3 LTS (or newer).
